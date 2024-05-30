@@ -1,0 +1,364 @@
+{
+  "foodComboList": [
+    {
+      "id": "783e",
+      "foodComboName": "50% Off Upto ₹100",
+      "foodName": "Pizza Hut",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/2b4f62d606d1b2bfba9ba9e5386fabb7"
+    },
+    {
+      "id": "af91",
+      "foodComboName": "Items At ₹149",
+      "foodName": "Chinese Work",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e0839ff574213e6f35b3899ebf1fc597"
+    },
+    {
+      "id": "b087",
+      "foodComboName": "Items At ₹149",
+      "foodName": "Bg Bowl",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/c99751d54e4e1847186c62b3309c1327"
+    },
+    {
+      "id": "70b4",
+      "foodComboName": "40% Off Upto ₹80",
+      "foodName": "Jugaad Nights",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ptqijjpjqkoxszwo0qtn"
+    },
+    {
+      "id": "59a6",
+      "foodComboName": "50% Off Upto ₹100",
+      "foodName": "Burger King",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e33e1d3ba7d6b2bb0d45e1001b731fcf"
+    },
+    {
+      "id": "8f61",
+      "foodComboName": "Items At ₹149",
+      "foodName": "Wendy'z Burgers",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f1aa621021a2826088089b89842d4e7c"
+    },
+    {
+      "id": "915a",
+      "foodComboName": "25% Off Upto ₹65",
+      "foodName": "Jayhind Sweets",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/takhc38rjdd0xmhllmve"
+    },
+    {
+      "id": "1564",
+      "foodComboName": "50% Off Upto ₹95",
+      "foodName": "Hotel The Lotus Park",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/a54azjlhxwwhd44vyzzh"
+    }
+  ],
+  "foodList": [
+    {
+      "id": "57e6",
+      "foodName": "Pizza Pepperoni",
+      "foodPrice": "100",
+      "foodTag": [
+        "Lunch",
+        "Pizza"
+      ],
+      "foodOrigin": [
+        "France"
+      ],
+      "foodCookTime": "10 - 20",
+      "foodImage": "https://www.ruchiskitchen.com/wp-content/uploads/2016/02/veggie-pizza-3-1-500x500.jpg"
+    },
+    {
+      "id": "1b5c",
+      "foodName": "Vegetable Burger",
+      "foodPrice": "200",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "France"
+      ],
+      "foodCookTime": "10 - 20",
+      "foodImage": "https://www.saltandlavender.com/wp-content/uploads/2016/05/ground-chicken-burgers-1-500x500.jpg"
+    },
+    {
+      "id": "b12e",
+      "foodName": "Full Dish",
+      "foodPrice": "300",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Punjabi",
+        "Gujarati"
+      ],
+      "foodCookTime": "20 - 30",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/qd5rxcbs9cc7yl4oeidm"
+    },
+    {
+      "id": "0d28",
+      "foodName": "Aloopuri",
+      "foodPrice": "30",
+      "foodTag": [
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "10 - 15",
+      "foodImage": "https://www.nehascookbook.com/wp-content/uploads/2022/11/Surti-aloopuri-WS-500x500.jpg"
+    },
+    {
+      "id": "8b79",
+      "foodName": "HotDog",
+      "foodPrice": "80",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "France"
+      ],
+      "foodCookTime": "10 - 15",
+      "foodImage": "https://www.savoryexperiments.com/wp-content/uploads/2020/03/dreamstime_l_141983688-500x500.jpg"
+    },
+    {
+      "id": "5ca0",
+      "foodName": "Patudi",
+      "foodPrice": "50",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "10 - 15",
+      "foodImage": "https://5.imimg.com/data5/WT/HA/UV/ANDROID-85687126/1559820878387-jpg-500x500.jpg"
+    },
+    {
+      "id": "c6e6",
+      "foodName": "Fry French Fries",
+      "foodPrice": "90",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "10 - 15",
+      "foodImage": "https://www.recipetineats.com/wp-content/uploads/2022/09/Crispy-Fries_8.jpg?w=500&h=500&crop=1"
+    },
+    {
+      "id": "6eaa",
+      "foodName": "Veg Manchow Soup",
+      "foodPrice": "80",
+      "foodTag": [
+        "Soup"
+      ],
+      "foodOrigin": [
+        "France"
+      ],
+      "foodCookTime": "10 - 15",
+      "foodImage": "https://www.secondrecipe.com/wp-content/uploads/2020/06/veg-manchow-soup-500x500.jpg"
+    },
+    {
+      "id": "913d",
+      "foodName": "Bread Pakoda",
+      "foodPrice": "65",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "10 - 15",
+      "foodImage": "https://www.vegrecipesofindia.com/wp-content/uploads/2010/08/bread-pakora-recipe-500x500.jpg"
+    },
+    {
+      "id": "1e09",
+      "foodName": "Das Khaman",
+      "foodPrice": "99",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "10 - 15",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/a024a8d58ebe61b90f954a6d1a3a0723"
+    },
+    {
+      "id": "0d82",
+      "foodName": "Bismillah IceCream",
+      "foodPrice": "99",
+      "foodTag": [
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "25 - 30",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/v5hbpy1g7u9k3xqfypug"
+    },
+    {
+      "id": "0509",
+      "foodName": "Samosa",
+      "foodPrice": "99",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Punjabi",
+        "Gujarati"
+      ],
+      "foodCookTime": "25 - 30",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/04d203c53bacf5542f03b250165df1b4"
+    },
+    {
+      "id": "7231",
+      "foodName": "Farali Sabudana Khichdi ",
+      "foodPrice": "110",
+      "foodTag": [
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "25 - 30",
+      "foodImage": "https://myfoodstory.com/wp-content/uploads/2022/04/Sabudana-Khichdi-7.jpg"
+    },
+    {
+      "id": "5337",
+      "foodName": "Farali Sabudana Vada",
+      "foodPrice": "110",
+      "foodTag": [
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "25 - 30",
+      "foodImage": "https://www.indianveggiedelight.com/wp-content/uploads/2020/04/Sabudana_vada_deepfry-1-2.jpg"
+    },
+    {
+      "id": "ac70",
+      "foodName": "Farali Bhel",
+      "foodPrice": "110",
+      "foodTag": [
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "25 - 30",
+      "foodImage": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/zgytbrfewbemslo0hy9d"
+    },
+    {
+      "id": "e732",
+      "foodName": "Fafda",
+      "foodPrice": "182",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "15 - 20",
+      "foodImage": "https://images.slurrp.com/prod/rich_article/uy6nzt2kmpb.webp?impolicy=slurrp-20210601&width=880&height=500"
+    },
+    {
+      "id": "6315",
+      "foodName": "Jalebi",
+      "foodPrice": "149",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "15 - 20",
+      "foodImage": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Jalebi_-_Served_in_a_Plate.JPG"
+    },
+    {
+      "id": "d6a3",
+      "foodName": "Poha",
+      "foodPrice": "110",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "Gujarati"
+      ],
+      "foodCookTime": "15 - 20",
+      "foodImage": "https://c.ndtvimg.com/2023-04/ghgdqak8_poha_625x300_03_April_23.jpg"
+    },
+    {
+      "id": "fa3d",
+      "foodName": "Idli Sambhar",
+      "foodPrice": "89",
+      "foodTag": [
+        "FastFood",
+        "Lunch"
+      ],
+      "foodOrigin": [
+        "South Indian"
+      ],
+      "foodCookTime": "15 - 20",
+      "foodImage": "https://assets.cntraveller.in/photos/627a4112cbc04ca509426501/4:3/w_2932,h_2199,c_limit/Vegetarian%20South%20Indian%20breakfast%20thali%20-%20Idli%20vada%20sambar%20chutney%20-%20Image%20ID%202H3783R%20(RF).jpg"
+    }
+  ],
+  "registerUser": [
+    {
+      "id": "721b",
+      "firstName": "Chirag",
+      "lastName": "Patel",
+      "phoneNumber": "7622929068",
+      "email": "chiku@gmail.com",
+      "userName": "chiku",
+      "password": "123"
+    },
+    {
+      "id": "725b",
+      "firstName": "Chirag",
+      "lastName": "Patel",
+      "phoneNumber": "7622929068",
+      "email": "chhirag@gmail.com",
+      "userName": "chirag",
+      "role": "admin",
+      "password": "chirag@123"
+    },
+    {
+      "id": "cdc6",
+      "firstName": "Yash",
+      "lastName": "Sutariya",
+      "phoneNumber": "9876543210",
+      "email": "yash@gmail.com",
+      "userName": "yash",
+      "password": "123"
+    },
+    {
+      "id": "6163",
+      "firstName": "a",
+      "lastName": "a",
+      "phoneNumber": "ww",
+      "email": "s",
+      "userName": "s",
+      "password": "s"
+    },
+    {
+      "id": "4568",
+      "firstName": "a",
+      "lastName": "a",
+      "phoneNumber": "ww",
+      "email": "s",
+      "userName": "s",
+      "password": "s"
+    }
+  ]
+}
