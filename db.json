@@ -324,16 +324,6 @@
       "password": "123"
     },
     {
-      "id": "725b",
-      "firstName": "Chirag",
-      "lastName": "Patel",
-      "phoneNumber": "7622929068",
-      "email": "chhirag@gmail.com",
-      "userName": "chirag",
-      "role": "admin",
-      "password": "chirag@123"
-    },
-    {
       "id": "cdc6",
       "firstName": "Yash",
       "lastName": "Sutariya",
@@ -341,24 +331,50 @@
       "email": "yash@gmail.com",
       "userName": "yash",
       "password": "123"
+    }
+  ],
+  "checkoutData": [
+    {
+      "firstName": "Yash",
+      "lastName": "Sutariya",
+      "email": "yash@gmail.com",
+      "homeAddress": "145- fourtune shoping center pal rto",
+      "city": "surat",
+      "phoneNumber": "123567890",
+      "pinCode": 968574,
+      "landMark": "surat",
+      "id": 1
     },
     {
-      "id": "6163",
-      "firstName": "a",
-      "lastName": "a",
-      "phoneNumber": "ww",
-      "email": "s",
-      "userName": "s",
-      "password": "s"
+      "firstName": "Yash",
+      "lastName": "Sutariya",
+      "email": "yash@gmail.com",
+      "homeAddress": "c-302 surat society",
+      "city": "Surat",
+      "phoneNumber": "9876543210",
+      "pinCode": 395005,
+      " ": "Gujarat",
+      "id": 2
     },
     {
-      "id": "4568",
-      "firstName": "a",
-      "lastName": "a",
-      "phoneNumber": "ww",
-      "email": "s",
-      "userName": "s",
-      "password": "s"
+      "firstName": "gfg",
+      "lastName": "fg",
+      "email": "ghghgfg@vb",
+      "homeAddress": "fgf",
+      "city": "fg",
+      "phoneNumber": "1234567890",
+      "pinCode": 32,
+      "landMark": "fgfg",
+      "id": 3
+    }
+  ],
+  "bankDetails": [
+    {
+      "nameOnCard": "",
+      "cardNumber": "",
+      "ExpDate": "",
+      "cvvNo": "",
+      "id": 1
     }
   ]
 }
